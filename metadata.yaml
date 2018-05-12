@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32986
     wikipedia: http://fr.wikipedia.org/wiki/Gatien_de_Courtilz_de_Sandras
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27878#M-moires-de-Mr.-d-Artagnan
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2009-01-24'
 gutenberg_type: Text
